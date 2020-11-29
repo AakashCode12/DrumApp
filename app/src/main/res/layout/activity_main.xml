@@ -7,59 +7,59 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/rightCrash"
         android:layout_width="142dp"
         android:layout_height="241dp"
         android:layout_marginStart="4dp"
-        android:onClick="playCrash2"
+
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageView7"
+        app:layout_constraintStart_toEndOf="@id/rightHat"
         app:srcCompat="@drawable/ic_rightcrash" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/kick"
         android:layout_width="181dp"
         android:layout_height="191dp"
         android:layout_marginStart="20dp"
-        android:onClick="playKick"
+
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageView5"
+        app:layout_constraintStart_toEndOf="@id/leftHat"
         app:srcCompat="@drawable/ic_kick" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/toms"
         android:layout_width="216dp"
         android:layout_height="102dp"
-        android:onClick="playToms"
-        app:layout_constraintBottom_toTopOf="@+id/imageView3"
-        app:layout_constraintStart_toEndOf="@+id/imageView5"
+
+        app:layout_constraintBottom_toTopOf="@id/kick"
+        app:layout_constraintStart_toEndOf="@id/leftHat"
         app:srcCompat="@drawable/ic_toms" />
 
     <ImageView
-        android:id="@+id/imageView5"
+        android:id="@+id/leftHat"
         android:layout_width="94dp"
         android:layout_height="223dp"
-        android:onClick="playHat"
+
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageView6"
+        app:layout_constraintStart_toEndOf="@+id/leftCrash"
         app:srcCompat="@drawable/ic_leftsecond" />
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/leftCrash"
         android:layout_width="112dp"
         android:layout_height="283dp"
-        android:onClick="playCrash1"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/ic_leftcrash" />
 
     <ImageView
-        android:id="@+id/imageView7"
+        android:id="@+id/rightHat"
         android:layout_width="95dp"
         android:layout_height="151dp"
-        android:onClick="playHat2"
+
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageView3"
+        app:layout_constraintStart_toEndOf="@id/kick"
         app:srcCompat="@drawable/ic_rightbottombesidethemainbadaitem" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
