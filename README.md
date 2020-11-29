@@ -4,7 +4,7 @@
 
 ## ScreenShots : 
 
-![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1603269163/Drum%20App/Screenshot_2020-10-21-14-01-20-530_com.example.drumapp_i6gxbr.jpg)
+![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1606678031/Drum%20App/Untitled_huhvv5.png)
 
 <br>
 
