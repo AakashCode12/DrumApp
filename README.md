@@ -11,3 +11,7 @@
 <br>
 
 ![](https://res.cloudinary.com/dnv3ztqf1/image/upload/v1606678622/Drum%20App/Untitled_qcvelu.png)
+
+
+#### Earlier I had made a 1 hour Web dev version too
+##### [Check it out](https://github.com/AakashCode12/DrumsWithJavascript)
