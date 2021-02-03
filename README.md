@@ -2,7 +2,7 @@
 
 # Try the Application by downloading the base.apk File.
 
-#### Made on 17 & 18 October 2020 for OOPS Project for College
+
 
 ## ScreenShots : 
 
