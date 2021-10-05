@@ -72,26 +72,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-//    public void playToms(View view) {
-//        tom.start();
-//    }
-//
-//    public void playKick(View view) {
-//        kick.start();
-//    }
-//
-//    public void playCrash1(View view) {
-//        crash1.start();
-//    }
-//
-//    public void playCrash2(View view) {
-//        crash2.start();
-//    }
-//    public void playHat(View view){
-//        hat1.start();
-//    }
-//    public void playHat2(View view){
-//        hat2.start();
-//    }
 
 }
