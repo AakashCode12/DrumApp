@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        ImageView rightHatImg = (ImageView)findViewById(R.id.rightHat);
-        rightHatImg.setOnClickListener(new View.OnClickListener() {
+        ImageView rightHatImgss = (ImageView)findViewById(R.id.rightHat);
+        rightHatImgss.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 hat2.start();
